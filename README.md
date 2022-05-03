@@ -8,6 +8,7 @@ Code and content for Parity's ink! Rust based Smart Contract language
 ## Other Tooling
 ### Cargo Contract
 ### Patract's tools
+### Supercolony
 
 # Learning Ressources
 ## Tutorials
@@ -25,9 +26,11 @@ Code and content for Parity's ink! Rust based Smart Contract language
 ## Other Blockchains
 ### Aleph Zero
 
-# Projects build on ink!
+# Code
+Projects and sample Contract build with ink!
 ## Open Emoji Battler
 ## AMM
+## Supercolony
 
 # Videos
 
