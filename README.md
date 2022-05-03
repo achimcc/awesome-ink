@@ -19,8 +19,8 @@ Code and content for Parity's ink! Rust based Smart Contract language
 
 # Blockchains implementing ink!
 ## Polkadot Parachains
-### Phala
 ### Astar
+### Phala
 ### peaq network
 ## Other Blockchains
 ### Aleph Zero
